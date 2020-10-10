@@ -1,0 +1,54 @@
+/* NAVBAR STUFF */
+
+.crypto-navbar{
+  border-bottom: 1px solid #d9e4dd;
+}
+
+/* HOME PAGE STUFF */
+
+.home-wrapper{
+  height: 100vh;
+  background-color: #f4f4f4;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.home-card-wrapper{
+  margin-top: 40px;
+  
+}
+
+.home-card{
+  border-radius: 2px;
+  padding: 40px;
+  background-color: #ffffff;
+  color: #272727;
+  box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.5);
+  border-color: 1px solid #d9e4dd;
+}
+
+.createBiomeForm{
+  margin-top: 40px;
+}
+
+.create-biome-button{
+  margin-top: 31px;
+  border: 1px solid #272727;
+  border-radius: 4px;
+  background-color: transparent;
+  color: #272727;
+  width: 100%;
+}
+
+.create-biome-button:hover{
+  margin-top: 31px;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  background-color: #272727;
+  color: #ffffff;
+  width: 100%;
+}
+
+.home-card-title{
+
+}
